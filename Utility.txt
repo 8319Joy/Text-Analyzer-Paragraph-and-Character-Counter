@@ -1,0 +1,10 @@
+ Utility of the Program
+
+This Paragraph and Character Counter program is a versatile tool designed for writers, editors, and content creators. It helps:
+
+1. Text Analysis: Quickly identify the number of paragraphs and characters for documents, articles, or essays.
+2. Content Formatting: Ensure proper paragraph structure and length consistency.
+3. **Writing Metrics**: Useful for meeting character or paragraph limits in publishing or academic assignments.
+4. **User-Friendly Interface**: The GUI makes it accessible for users with no programming knowledge. 
+
+Ideal for anyone needing a simple and effective way to analyze text!
